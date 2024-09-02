@@ -1,0 +1,19 @@
+.yt{
+    color:red;
+    height:50px;
+    width:50px;
+    display:inline;
+    margin-left: 10px;
+}
+.top{
+    background-color: rgb(240, 233, 233);
+}
+.search{
+    display:inline;
+    position:absolute;
+    top:2%;
+    margin-left:75px;
+}
+.sl{
+    margin-left:15px;
+}

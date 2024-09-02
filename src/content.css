@@ -1,0 +1,21 @@
+img{
+    height:150px;
+    width:300px;
+}
+.r1,.r2,.r3{
+    display:inline;
+    margin:50px;
+}
+.ro1,.ro2,.ro3{
+    display:inline;
+    margin:50px;
+}
+.c1,.c2,.c3{
+    display:inline;
+    margin:50px;
+}
+.row1,.row2,.row3{
+}
+p{
+    text-align:center;
+}
