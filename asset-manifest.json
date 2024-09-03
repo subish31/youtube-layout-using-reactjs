@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/youtube-layout-using-reactjs/static/css/main.670cc304.css",
+    "main.js": "/youtube-layout-using-reactjs/static/js/main.70cc5dee.js",
+    "static/media/fcc.png": "/youtube-layout-using-reactjs/static/media/fcc.974208669fb51c101ed5.png",
+    "static/media/a2d.jpg": "/youtube-layout-using-reactjs/static/media/a2d.06541346ffe803f4a763.jpg",
+    "static/media/vjs.jpg": "/youtube-layout-using-reactjs/static/media/vjs.a839ef72966e4fd8bb02.jpg",
+    "static/media/par.jpg": "/youtube-layout-using-reactjs/static/media/par.24ad431148b96085334f.jpg",
+    "static/media/bs.jpg": "/youtube-layout-using-reactjs/static/media/bs.a758e810906682ad26af.jpg",
+    "static/media/jk.jpg": "/youtube-layout-using-reactjs/static/media/jk.7b3f84022ba1ac299032.jpg",
+    "static/media/emc.jpg": "/youtube-layout-using-reactjs/static/media/emc.4709df3a68a651c99ec9.jpg",
+    "static/media/madan.jpg": "/youtube-layout-using-reactjs/static/media/madan.b43ebbd68315201779fb.jpg",
+    "static/media/emc2.jpeg": "/youtube-layout-using-reactjs/static/media/emc2.62ef9ac8b4edb6530a0b.jpeg",
+    "index.html": "/youtube-layout-using-reactjs/index.html",
+    "main.670cc304.css.map": "/youtube-layout-using-reactjs/static/css/main.670cc304.css.map",
+    "main.70cc5dee.js.map": "/youtube-layout-using-reactjs/static/js/main.70cc5dee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.670cc304.css",
+    "static/js/main.70cc5dee.js"
+  ]
+}
